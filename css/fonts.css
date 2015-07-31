@@ -1,0 +1,54 @@
+@font-face{
+	font-family:SourceCodeProExtraLight;
+	src:url(../font/SourceCodePro-ExtraLight-webfont.eot);
+	src:url(../font/SourceCodePro-ExtraLight-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceCodeProLight;
+	src:url(../font/SourceCodePro-Light-webfont.eot);
+	src:url(../font/SourceCodePro-Light-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceCodeProRegular;
+	src:url(../font/SourceCodePro-Regular-webfont.eot);
+	src:url(../font/SourceCodePro-Regular-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceCodeProSemibold;
+	src:url(../font/SourceCodePro-Semibold-webfont.eot);
+	src:url(../font/SourceCodePro-Semibold-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceCodeProBold;
+	src:url(../font/SourceCodePro-Bold-webfont.eot);
+	src:url(../font/SourceCodePro-Bold-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceCodeProBlack;
+	src:url(../font/SourceCodePro-Black-webfont.eot);
+	src:url(../font/SourceCodePro-Black-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceSansProRegular;
+	src:url(../font/sourcesanspro-regular-webfont.eot);
+	src:url(../font/sourcesanspro-regular-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceSansProSemibold;
+	src:url(../font/sourcesanspro-semibold-webfont.eot);
+	src:url(../font/sourcesanspro-semibold-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
+@font-face{
+	font-family:SourceSansProLight;
+	src:url(../font/sourcesanspro-light-webfont.eot);
+	src:url(../font/sourcesanspro-light-webfont.woff) format('woff');
+	font-weight:400;
+	font-style:normal}
